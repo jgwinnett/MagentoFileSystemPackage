@@ -2,7 +2,7 @@
 
 This is an upload of MagPleasure's Magento File System that has been repackaged to ensure it successfully uploads. 
 
-Repackage was done using (MagentoTarToConnect)[https://github.com/astorm/MagentoTarToConnect]
+Repackage was done using [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect)
 
 # Warning
 
